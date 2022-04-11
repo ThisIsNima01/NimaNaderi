@@ -29,7 +29,7 @@ Hey there! I'm Nima.
   ![ReactJS](https://img.shields.io/badge/-React_JS-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![ReactRouter](https://img.shields.io/badge/-React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
   ![ReactQuery](https://img.shields.io/badge/-React_Query-042035?style=flat&logo=reactquery&logoColor=white)
-  ![Redux](https://img.shields.io/badge/-Redux_Thunk_Saga-593D88?style=flat&logo=reactrouter&logoColor=white)
+  ![Redux](https://img.shields.io/badge/-Redux_Thunk_Saga-593D88?style=flat&logo=redux&logoColor=white)
 - ⚙️
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
