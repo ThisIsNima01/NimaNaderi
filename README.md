@@ -6,7 +6,7 @@ Hey there! I'm Nima.
 
 
 
-<a href = "mailto: nima.er.84@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href = "mailto: nima.er.84@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
