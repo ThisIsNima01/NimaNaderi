@@ -12,7 +12,7 @@ Hey there! I'm Nima.
 
 - 🤔 Exploring new technologies and developing Web solutions and quick hacks.
 - 💼 Open To Work At This Time.
-- 🌱 Learning about ![WASM](https://img.shields.io/badge/-Jest-A14957?style=flat&logo=jest&logoColor=white).
+- 🌱 Learning about ![WASM](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
