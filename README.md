@@ -1,4 +1,4 @@
-Hey there! I'm Nima.
+<!-- Hey there! I'm Nima.
 
 ![Focus](https://img.shields.io/badge/Focus-Frontend-brightgreen)
 
@@ -12,11 +12,11 @@ Hey there! I'm Nima.
 
 - 🤔 Exploring new technologies and developing Web solutions and quick hacks.
 - 💼 Open To Work At This Time.
-- 🌱 Learning about ![WASM](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white).
+- 🌱 Learning about ![WASM](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white). -->
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<!-- <h3> 🛠 &nbsp;Tech Stack</h3> -->
 
-- :paintbrush:	
+<!-- - :paintbrush:	
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
   ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
@@ -37,3 +37,4 @@ Hey there! I'm Nima.
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode&logoColor=277dff)
 
 <img src="https://github-readme-stats.vercel.app/api?username=NimaNaderi&theme=nord&show_icons=true" />
+ -->
