@@ -38,8 +38,15 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=NimaNaderi&theme=nord&show_icons=true" />
  -->
+<h1 align='center'> Hi there 👋, I'm Nima Naderi  👨‍💻</h1>
+
+<a href="https://t.me/nima_n_i" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&labelColor=2CA5E0&logo=telegram&logoColor=white" alt="Telegram"></a>
 
 
+
+
+
+<a href = "mailto: nima.er.84@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
