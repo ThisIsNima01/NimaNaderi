@@ -47,7 +47,7 @@
  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nima_n_i)
 
-<a href="https://t.me/nima_n_i" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&labelColor=2CA5E0&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="https://t.me/nima_n_i" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"></a>
 
 
 
