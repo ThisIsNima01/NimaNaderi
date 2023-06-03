@@ -1,6 +1,6 @@
-<h1 align='center'> Hi there 👋, I'm Nima Naderi  👨‍💻</h1>
+<h1 align='center'> Hi there 👋, I'm Nima 👨‍💻</h1>
 
-I'm Nima - A 17 years old Flutter Developer. I started learning flutter in Q4 Of 2022. I'm so excited to collaborating in flutter projects. Currently i'm working on my portfolio projects. You can ask anything from me about flutter world !
+A 17 years old Flutter Developer. I started learning flutter in Q4 Of 2022. I'm so excited to collaborating in flutter projects. Currently i'm working on my portfolio projects. You can ask anything from me about flutter world !
 
 
 # 💻 Tech Stack:
